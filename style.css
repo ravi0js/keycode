@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+    display: flex;  
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;    
+}
+.container{
+    margin: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+    width: 50rem;   
+    gap: 1rem;
+    background-color: lightcoral;
+}
+.subcontainer1, .subcontainer2,.subcontainer3{
+    font-size: 2rem;
+    padding: 2rem;
+    color: white;
+}
+.subcontainer1{
+    
+    
+}
+.subcontainer2{
+       
+}
